@@ -1,0 +1,10 @@
+{
+    "acceptedSourceIPNetworkPart": "11000000110000001100000000000000",
+    "SourcesubNetMask":"24",
+    "acceptedSourceIpHosts":["00000000000000000000000000000000","00000000000000000000000000001010"],
+    "acceptedDestinationIPNetworkPart": "10110110101101101011011000000000",
+    "destinationsubNetMask":"24",
+    "acceptedDestinationIpHosts":["00000000000000000000000000000000","00000000000000000000000000001010"],
+    "sourcePort":"1100000000000011",
+    "destinationPort":"1100000000000100"
+}
